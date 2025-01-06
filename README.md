@@ -1,5 +1,7 @@
 # bevy_egui_web_showcase
 
+**DEPRECATED:** the web examples now live directly in the [bevy_egui](https://github.com/mvlabat/bevy_egui) repo.
+
 An example project running on [bevy_egui](https://github.com/mvlabat/bevy_egui).
 
 Live at: https://mvlabat.github.io/bevy_egui_web_showcase/index.html
